@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp3.1\LinkedList_Stack.exe
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp3.1\LinkedList_Stack.deps.json
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp3.1\LinkedList_Stack.runtimeconfig.json
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp3.1\LinkedList_Stack.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp3.1\LinkedList_Stack.dll
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp3.1\LinkedList_Stack.pdb
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.dll
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.pdb
+C:\Users\INDIA\source\repos\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp3.1\LinkedList_Stack.genruntimeconfig.cache
