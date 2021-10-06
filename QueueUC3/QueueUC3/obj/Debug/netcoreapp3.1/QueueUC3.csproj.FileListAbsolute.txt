@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\bin\Debug\netcoreapp3.1\QueueUC3.exe
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\bin\Debug\netcoreapp3.1\QueueUC3.deps.json
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\bin\Debug\netcoreapp3.1\QueueUC3.runtimeconfig.json
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\bin\Debug\netcoreapp3.1\QueueUC3.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\bin\Debug\netcoreapp3.1\QueueUC3.dll
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\bin\Debug\netcoreapp3.1\QueueUC3.pdb
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.dll
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.pdb
+C:\Users\INDIA\source\repos\QueueUC3\QueueUC3\obj\Debug\netcoreapp3.1\QueueUC3.genruntimeconfig.cache
