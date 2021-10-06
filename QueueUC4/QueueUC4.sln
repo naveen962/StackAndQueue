@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUC4", "QueueUC4\QueueUC4.csproj", "{36CFCFE4-A765-4F57-A2E1-568F2F58BB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CFCFE4-A765-4F57-A2E1-568F2F58BB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CFCFE4-A765-4F57-A2E1-568F2F58BB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CFCFE4-A765-4F57-A2E1-568F2F58BB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CFCFE4-A765-4F57-A2E1-568F2F58BB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFEDD24-DE4E-43E6-9402-E9A623F6062E}
+	EndGlobalSection
+EndGlobal
